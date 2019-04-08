@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.enterprise.usermgmt.UsersServerTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.927 s - in com.enterprise.usermgmt.UsersServerTests

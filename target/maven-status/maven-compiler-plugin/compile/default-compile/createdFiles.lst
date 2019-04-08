@@ -1,0 +1,9 @@
+com\enterprise\usermgmt\services\users\UsersServer.class
+com\enterprise\usermgmt\users\UsersConfiguration.class
+com\enterprise\usermgmt\users\model\User.class
+com\enterprise\usermgmt\exceptions\NotFoundException.class
+com\enterprise\usermgmt\services\registration\RegistrationServer.class
+com\enterprise\usermgmt\users\UsersController.class
+com\enterprise\usermgmt\users\UsersRepository.class
+com\enterprise\usermgmt\Main.class
+com\enterprise\usermgmt\users\model\Status.class
